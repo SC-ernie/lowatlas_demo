@@ -1,19 +1,17 @@
-# Lowatlas Portfolio
+# Lowatlas updated portfolio
 
-Single-file responsive portfolio concept.
+Multi-page static portfolio.
 
-## What makes it distinct
-- "Project Atlas" interactive map: each demo site is represented as a coordinate/node.
-- Blackout Customs is treated as the lead / live-client case study.
-- Demo concepts: barber, automotive detailing, Pomona Water & Ice.
-- Minimal dark studio aesthetic with restrained neon accent.
-- Mobile responsive and reduced-motion aware.
+## Pages
+- `index.html`
+- `work/blackout-customs.html`
+- `work/barber.html`
+- `work/detailing.html`
+- `work/pomona-water-ice.html`
 
 ## Before publishing
-1. Replace hello@lowatlas.com with your real business email.
-2. Replace all href="#" project links with live URLs.
-3. Replace the Blackout Customs mockup with an actual screenshot when you have one.
-4. Add legal/business footer details once you settle the business setup.
-5. Consider creating individual case-study pages as projects become real client work.
-
-Open index.html in any browser.
+1. Replace `hello@lowatlas.com` with your real business email.
+2. Replace the `href="#"` on the Blackout Customs **View Live Site** button with the actual live URL.
+3. Replace the current photo URLs with actual client/project photography when available.
+4. Replace the case-study gallery placeholders with screenshots of the actual sites.
+5. This remains fully static and can be hosted on GitHub Pages, Cloudflare Pages, Netlify, Vercel, etc.
