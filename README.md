@@ -1,6 +1,9 @@
-# Lowatlas Portfolio
+# LOWATLAS PORTFOLIO
 
-## Keep these files together in the repo root
+This version keeps the same file structure already used in the GitHub repository.
+
+## FILES
+
 - index.html
 - blackout-customs.html
 - barber.html
@@ -10,16 +13,81 @@
 - script.js
 - README.md
 
-## Fast edits
-- Email: search `lowatlas.studio@gmail.com`
-- Live Blackout URL: search `https://blackoutcustoms.net`
-- Colors: top of `styles.css` under `:root`
-- Project cards: `index.html` under the WORK section
 
-## Current status
-- Blackout Customs — Live client project
-- Modern Barber — Concept
-- Detailing Studio — Concept
-- Pomona Water & Ice — Concept
+## MOST COMMON CHANGES
 
-The current images use normal stock photography URLs instead of generated artwork. Replace them with real client photography and actual site screenshots whenever available.
+### Change business email
+
+Search all files for:
+
+lowatlas.studio@gmail.com
+
+
+### Change Blackout Customs URL
+
+Search for:
+
+https://blackoutcustoms.net
+
+
+### Change site colors
+
+Open:
+
+styles.css
+
+Then look at:
+
+1. BRAND COLORS / GLOBAL SETTINGS
+
+
+### Change homepage projects
+
+Open:
+
+index.html
+
+Then find:
+
+SELECTED WORK
+
+
+### Change packages
+
+Open:
+
+index.html
+
+Then find:
+
+SERVICES / PACKAGES
+
+
+### Change maintenance pricing
+
+Open:
+
+index.html
+
+Then find:
+
+OPTIONAL MAINTENANCE
+
+
+## PROJECT STATUS
+
+Blackout Customs
+- Live client project
+- Direct live-site button on homepage
+
+Modern Barber
+- Concept
+- Direct concept-page button on homepage
+
+Detailing Studio
+- Concept
+- Direct concept-page button on homepage
+
+Pomona Water & Ice
+- Concept
+- Direct concept-page button on homepage
