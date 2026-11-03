@@ -1,17 +1,25 @@
-# Lowatlas updated portfolio
+# Lowatlas Portfolio
 
-Multi-page static portfolio.
+## Keep these files together in the repo root
+- index.html
+- blackout-customs.html
+- barber.html
+- detailing.html
+- pomona-water-ice.html
+- styles.css
+- script.js
+- README.md
 
-## Pages
-- `index.html`
-- `work/blackout-customs.html`
-- `work/barber.html`
-- `work/detailing.html`
-- `work/pomona-water-ice.html`
+## Fast edits
+- Email: search `lowatlas.studio@gmail.com`
+- Live Blackout URL: search `https://blackoutcustoms.net`
+- Colors: top of `styles.css` under `:root`
+- Project cards: `index.html` under the WORK section
 
-## Before publishing
-1. Replace `hello@lowatlas.com` with your real business email.
-2. Replace the `href="#"` on the Blackout Customs **View Live Site** button with the actual live URL.
-3. Replace the current photo URLs with actual client/project photography when available.
-4. Replace the case-study gallery placeholders with screenshots of the actual sites.
-5. This remains fully static and can be hosted on GitHub Pages, Cloudflare Pages, Netlify, Vercel, etc.
+## Current status
+- Blackout Customs — Live client project
+- Modern Barber — Concept
+- Detailing Studio — Concept
+- Pomona Water & Ice — Concept
+
+The current images use normal stock photography URLs instead of generated artwork. Replace them with real client photography and actual site screenshots whenever available.
