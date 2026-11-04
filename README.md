@@ -1,85 +1,59 @@
-# LOWATLAS V1
+# LOWATLAS — BILINGUAL VERSION
 
-Same simple file structure as the current GitHub repo:
+## Main pages
 
+English:
 - index.html
+
+Spanish:
+- index-es.html
+
+## Project pages
+
+English:
 - blackout-customs.html
 - barber.html
 - detailing.html
 - pomona-water-ice.html
+
+Spanish:
+- blackout-customs-es.html
+- barber-es.html
+- detailing-es.html
+- pomona-water-ice-es.html
+
+## Shared files
+
 - styles.css
 - script.js
-- README.md
 
-## Fast edits
+## Assets
 
-### Email
-Search for:
-`lowatlas.studio@gmail.com`
+- assets/blackout-customs-logo.svg
 
-### Blackout Customs live URL
-Search for:
-`https://blackoutcustoms.net`
+The Blackout file is currently a clean wordmark-style logo tile created for the portfolio thumbnail.
+If you have the official Blackout Customs logo PNG/SVG, replace this file while keeping the same filename:
 
-### Hero
-Open `index.html` and search:
-`HERO`
+assets/blackout-customs-logo.svg
 
-### Work
-Open `index.html` and search:
-`FEATURED WORK`
+or update the image path in the HTML.
 
-### Pricing
-Open `index.html` and search:
-`PRICING`
+## Language switch
 
-### Website care
-Open `index.html` and search:
-`WEBSITE CARE`
+The EN / ES control is in the top-right navigation.
 
-### FAQ
-Open `index.html` and search:
-`FAQ`
+No translation plugin is used.
+No framework is used.
+Everything remains static HTML/CSS/JS.
 
-### Colors
-Open `styles.css` and edit the variables at the top.
+## Concept photography
 
-## Current pricing
+Concept thumbnails use normal real-world photography, not generated artwork.
 
-Essential:
-- $500 one-time
-- or $50/month x 12
-- 2 revision rounds
+## Email
 
-Business:
-- $800 one-time
-- or $75/month x 12
-- 3 revision rounds
+lowatlas.studio@gmail.com
 
-Website Care:
-- $40/month optional after launch
+## Live client site
 
-## Lowatlas signature
-
-SEE → TRUST → CONTACT
-
-Every Lowatlas website should help a customer:
-1. See what the business does.
-2. Trust the business.
-3. Contact the business.
-
-## Images
-
-The homepage uses ordinary real-world photography from Unsplash.
-No AI-generated artwork is used.
-
-For the strongest final portfolio, replace these with:
-- actual client photography
-- actual screenshots of the websites
-- real business reviews / project details
-
-## Scope
-
-Typical public timeline: 1–3 weeks depending on scope, content, and revisions.
-
-Anything significantly beyond the Essential / Business package becomes a custom quote.
+https://blackoutcustoms.net

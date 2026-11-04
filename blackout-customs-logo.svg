@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#050505"/>
+  <rect x="38" y="38" width="1124" height="624" rx="26" fill="none" stroke="#242424" stroke-width="2"/>
+  <text x="600" y="315" fill="#f4f1e9" font-family="Arial, Helvetica, sans-serif"
+        font-size="92" font-weight="800" letter-spacing="8" text-anchor="middle">BLACKOUT</text>
+  <text x="600" y="400" fill="#9b9b9b" font-family="Arial, Helvetica, sans-serif"
+        font-size="38" font-weight="700" letter-spacing="18" text-anchor="middle">CUSTOMS</text>
+  <line x1="390" y1="455" x2="810" y2="455" stroke="#d4ff63" stroke-width="4"/>
+</svg>
