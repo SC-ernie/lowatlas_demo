@@ -1,8 +1,6 @@
-# LOWATLAS PORTFOLIO
+# LOWATLAS V1
 
-This version keeps the same file structure already used in the GitHub repository.
-
-## FILES
+Same simple file structure as the current GitHub repo:
 
 - index.html
 - blackout-customs.html
@@ -13,81 +11,75 @@ This version keeps the same file structure already used in the GitHub repository
 - script.js
 - README.md
 
+## Fast edits
 
-## MOST COMMON CHANGES
-
-### Change business email
-
-Search all files for:
-
-lowatlas.studio@gmail.com
-
-
-### Change Blackout Customs URL
-
+### Email
 Search for:
+`lowatlas.studio@gmail.com`
 
-https://blackoutcustoms.net
+### Blackout Customs live URL
+Search for:
+`https://blackoutcustoms.net`
 
+### Hero
+Open `index.html` and search:
+`HERO`
 
-### Change site colors
+### Work
+Open `index.html` and search:
+`FEATURED WORK`
 
-Open:
+### Pricing
+Open `index.html` and search:
+`PRICING`
 
-styles.css
+### Website care
+Open `index.html` and search:
+`WEBSITE CARE`
 
-Then look at:
+### FAQ
+Open `index.html` and search:
+`FAQ`
 
-1. BRAND COLORS / GLOBAL SETTINGS
+### Colors
+Open `styles.css` and edit the variables at the top.
 
+## Current pricing
 
-### Change homepage projects
+Essential:
+- $500 one-time
+- or $50/month x 12
+- 2 revision rounds
 
-Open:
+Business:
+- $800 one-time
+- or $75/month x 12
+- 3 revision rounds
 
-index.html
+Website Care:
+- $40/month optional after launch
 
-Then find:
+## Lowatlas signature
 
-SELECTED WORK
+SEE → TRUST → CONTACT
 
+Every Lowatlas website should help a customer:
+1. See what the business does.
+2. Trust the business.
+3. Contact the business.
 
-### Change packages
+## Images
 
-Open:
+The homepage uses ordinary real-world photography from Unsplash.
+No AI-generated artwork is used.
 
-index.html
+For the strongest final portfolio, replace these with:
+- actual client photography
+- actual screenshots of the websites
+- real business reviews / project details
 
-Then find:
+## Scope
 
-SERVICES / PACKAGES
+Typical public timeline: 1–3 weeks depending on scope, content, and revisions.
 
-
-### Change maintenance pricing
-
-Open:
-
-index.html
-
-Then find:
-
-OPTIONAL MAINTENANCE
-
-
-## PROJECT STATUS
-
-Blackout Customs
-- Live client project
-- Direct live-site button on homepage
-
-Modern Barber
-- Concept
-- Direct concept-page button on homepage
-
-Detailing Studio
-- Concept
-- Direct concept-page button on homepage
-
-Pomona Water & Ice
-- Concept
-- Direct concept-page button on homepage
+Anything significantly beyond the Essential / Business package becomes a custom quote.
