@@ -29,12 +29,12 @@ Spanish:
 
 ## Assets
 
-- assets/blackout-customs-logo.svg
+- blackout-customs-logo.svg
 
 The Blackout file is currently a clean wordmark-style logo tile created for the portfolio thumbnail.
 If you have the official Blackout Customs logo PNG/SVG, replace this file while keeping the same filename:
 
-assets/blackout-customs-logo.svg
+blackout-customs-logo.svg
 
 or update the image path in the HTML.
 
@@ -57,3 +57,26 @@ lowatlas.studio@gmail.com
 ## Live client site
 
 https://blackoutcustoms.net
+
+
+## Pricing wording
+
+Public pricing now uses:
+
+- Essential — Starting at $500
+- Business — Starting at $800
+- Website Care — $50/month
+
+This makes it clear the package prices are minimum starting points for the listed standard scope.
+
+Extra pages, extra content, custom functionality, or work outside the stated scope should be quoted separately.
+
+## Blackout logo upload fix
+
+The Blackout logo file now lives in the ROOT of the repository:
+
+blackout-customs-logo.svg
+
+Upload it beside `index.html`, `styles.css`, etc.
+
+This avoids needing an `assets/` folder and prevents the broken-image issue shown on GitHub Pages.
